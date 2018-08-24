@@ -5,5 +5,5 @@ jobs:
       - image: circleci/ruby:2.3.4-node-browsers
     steps:
       - checkout
-      - run: sleep 200
+      - run: sleep 220
       - run: echo "Done"
