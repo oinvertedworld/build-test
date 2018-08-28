@@ -6,4 +6,4 @@ jobs:
     steps:
       - checkout
       - run: sleep 220
-      - run: echo "Done"
+      - run: echo "Done!"
